@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+    "kty": "RSA",
+    "e": "AQAB",
+    "use": "sig",
+    "kid": "ecw-prd-bulk-1",
+    "alg": "RS384",
+    "n": "ltqFfyDc-5jULCNk7glec3wy-QwCON2zR2P1S-Ee8gwans6QuvC_msRBpr7byQvjKAxut_xTFEUHVF6pgZCQjCVcokyEidl7Ru0xQhLKae8YDR0xd4pei6ApI7DmYVCGK4CGjFyWfNjvQL9--WeSrBaUA2rswrLxwcK0c_ynOPUc1CqE4VxBVRCfB-BogvaCBgfeAvKe1youjfH7mhA_qTXzKs0GwHzNSHVCHUG2FPu8soVFiRmVgsqFdhJcYryw2hc4EKsc9HE37zrzthU1Kqrr9ai4F0b4PL8NAsD_WLTA8LUfnpkQS1vNcgqQQQdEmCc4A56IUrrwDj5-mTBfKw"
+}
+  ]
+}

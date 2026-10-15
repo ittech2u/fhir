@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+    "kty": "RSA",
+    "e": "AQAB",
+    "use": "sig",
+    "kid": "ecw-stg-bulk-1",
+    "alg": "RS384",
+    "n": "oK_KqFeQDkMkrUevhmmUzjpkNhNv0UuOn6KJo5m1mafJ8y33_CF6wmkBday8wdLTag7YClkGu8zHJUc2POwi6W3p_UA349DyD3eyedcEZ_s9siISgxUWMWT3L9lnCsMT268edZas8my9MHXpv_qvtSiKump6NlJiy_pp_8CcTInkCHDLFDhpHleF15HIQhIfCTDXssje0RYKbKzSuupuNdMBCsiAEmbCDT3voBdzdPHHMtPg9Qw_exWH717vVuNWqIR5uGAYR__AxB5_N7oLjTwW38vYjosyIRKgGx_lNIGiRjD-s-FwLD56IRhk7RRIuAFnl9SaTVLdhBXkk2zO0Q"
+}
+  ]
+}
